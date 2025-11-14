@@ -1,0 +1,9 @@
+Es importante saber que nuestro dataset ha sido hecho a base de 3 datasets encontrados en Kaggle.
+
+Se ha utilizado el notebook build_dataset.ipynb para el proceso de mezcla y separacion por clases y splits de los datasets.
+
+Links de los datasets usados:
+
+1.	https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
+2.	https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset 
+3.	https://www.kaggle.com/datasets/alexandredj/rock-paper-scissors-dataset 

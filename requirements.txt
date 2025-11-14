@@ -1,0 +1,5 @@
+# Estas librerias solo son para poder correr el servidor en python 3
+
+tensorflow==2.17.0
+opencv-python
+numpy
